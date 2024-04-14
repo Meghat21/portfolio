@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
+    "@react-pdf/renderer": "^3.4.2",
     "@react-spring/three": "^9.7.3",
     "@react-three/drei": "^9.105.4",
     "@react-three/fiber": "^8.16.1",
